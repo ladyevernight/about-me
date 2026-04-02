@@ -1,3 +1,5 @@
 <p align="center">
-![Naomi](https://raw.githubusercontent.com/ladyevernight/about-me/main/Naomi.gif)
+  <a href="https://raw.githubusercontent.com/ladyevernight/about-me/main/Naomi.gif">
+    View Naomi GIF
+  </a>
 </p>
