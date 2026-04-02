@@ -1,3 +1,3 @@
-<div align="center">
-  <img src="https://ladyevernight.github.io/about-me/Naomi.gif"/>
-</div>
+<p align="center">
+  <img src="https://githubusercontent.com" width="300"/>
+</p>
