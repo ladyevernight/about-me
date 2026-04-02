@@ -1,4 +1,3 @@
 <p align="center">
-  <a href="https://raw.githubusercontent.com/ladyevernight/about-me/main/Naomi.gif">
-  </a>
+  <img src="https://ladyevernight.github.io/about-me/Naomi.gif" width="300"/>
 </p>
