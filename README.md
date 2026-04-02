@@ -1,3 +1,3 @@
 <p align="center">
-  ![Naomi](https://raw.githubusercontent.com/ladyevernight/about-me/main/Naomi.gif)
+  <img src="https://raw.githubusercontent.com/ladyevernight/about-me/main/Naomi.gif" width="300"/>
 </p>
