@@ -4,8 +4,10 @@
 </p>
 <div align="center">
  <div style="display:inline-block; text-align:left; font-size:9px;">
-    Hihi!..I go by Sam or Vivi.<br>
+    <small><small>
+    Hihi..!! I go by Sam or Vivi.<br>
     I'm very avoidant so don't expect me to<br>
     initiate conversations... :P
+    <small><small>
   </div>
 </div>
